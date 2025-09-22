@@ -1,4 +1,4 @@
-# ⚽ LaLiga Insight: Match Outcome Predictor
+# ⚽ LaLiga Insight: Football Match Outcome Predictor
 
 *Predicting Victory, Empowering Winning Strategies Instantly*
 
@@ -13,16 +13,16 @@ Built with the tools and technologies:
 ---
 
 ## 📑 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
-- [Data Sources](#data-sources)
-- [License](#license)
+- [Data Sources](#-data-sources)
+- [License](#-license)
 
 ---
 
@@ -42,6 +42,7 @@ It integrates scraping, preprocessing, and predictive modeling into a streamline
 ---
 
 ## 📂 Project Structure
+```bash
 LaLiga-Insight-Match-Outcome-Predictor/
 ├── src/ # Deployable prediction script
 │ └── Match_Predictor.py
@@ -50,11 +51,7 @@ LaLiga-Insight-Match-Outcome-Predictor/
 ├── data/ # Raw, interim, and processed data
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
-
-yaml
-Copy code
-
----
+```
 
 ## 🚀 Getting Started
 
@@ -65,35 +62,54 @@ Copy code
 ### Installation
 Clone the repository and install dependencies:
 
+
+
+#### Clone repo
 ```bash
-# Clone repo
 git clone https://github.com/sanidavidanagama/LaLiga-Insight-Match-Outcome-Predictor.git
+```
 
-# Navigate to directory
+#### Navigate to directory
+```
 cd LaLiga-Insight-Match-Outcome-Predictor
+```
 
-# Install dependencies
+#### Install dependencies
+```
 pip install -r requirements.txt
-Usage
+```
+
+#### Usage
 Run predictions on a fixture CSV:
 
-bash
-Copy code
+```bash
 python src/Match_Predictor.py --input data/processed/2025-season-fix.csv
-Testing
+```
+
+#### Testing
 Run the test suite with:
-
-bash
-Copy code
+```bash
 pytest
-📊 Data Sources
-FBRef – Advanced football statistics
+```
+  
+---
 
-Transfermarkt – Historical fixtures and results
 
-📜 License
-Distributed under the MIT License.
-See LICENSE for more information.
+## 📊 Data Sources
+[FBRef](https://fbref.com/en/comps/12/history/La-Liga-Seasons) – Advanced football statistics  
+[Transfermarkt](https://www.transfermarkt.com/laliga/gesamtspielplan/wettbewerb/ES1?saison_id=2024&spieltagVon=1&spieltagBis=38) – Historical fixtures and results
 
-yaml
-Copy code
+---
+     
+## 📜 License
+Distributed under the MIT LICENSE  
+See [LICENSE](https://github.com/sanidavidanagama/LaLiga-Insight-Match-Outcome-Predictor/blob/main/LICENSE) for more information.
+
+---
+
+## 👤 Author
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanida%20Vidanagama-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanida-vidanagama-246a14297/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Sanida%20Vidanagama-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/sanidavidanagama)
+[![GitHub](https://img.shields.io/badge/GitHub-sanidavidanagama-181717?style=flat-square&logo=github)](https://github.com/sanidavidanagama)
+[![Email](https://img.shields.io/badge/Email-sanidavidanagama%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanidavidanagama@gmail.com)

